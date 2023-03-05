@@ -1,0 +1,68 @@
+#App{
+    width: 100%;
+    height: 800px;
+    background-image: url("E9dasC.gif");
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+.menu{
+    font-family: fantasy;
+  
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    list-style: none;}
+    
+#videos{
+
+    color: aliceblue;
+    bottom: 0;
+    opacity: 0.83;
+background-image: url("gradient-pastel-sky-background_23-2148917404.jpg");
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#welcome{
+    
+    color: black;
+    bottom: 0;
+    opacity: 0.83;
+    background-image: url("original.webp");
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#Games{
+    width: 100%;
+    height: 800px;
+    background-image: url("200w.gif");
+    
+}
+img{
+    transition: transform .2s;
+        width: 170px; 
+}
+img:hover{
+    transform: scale(1.2);
+}
+
+body{
+    text-align: center;
+    background-image: url("Pinkbackgound.gif");
+}
+
+#contact{
+   background-image: url("2d5fd356c56048681759a435c42628d5.gif");
+}
+
+#contact_2{
+   background-image: url("cute-and-happy-watermelon-with-crown-cartoon-illustration-vector.jpg");
+}
